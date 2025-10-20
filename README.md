@@ -4,7 +4,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)](LICENSE)
 
 ## 📋 Sobre o Projeto
 
@@ -17,10 +16,6 @@ Este projeto foi desenvolvido como **Entrega I** da disciplina de Desenvolviment
 O terceiro setor brasileiro representa uma força econômica e social significativa, com mais de 820 mil organizações da sociedade civil. No entanto, apenas 30% possuem presença digital adequada. A ONGConnect surge como solução para democratizar o acesso à tecnologia e amplificar o impacto social dessas organizações.
 
 ---
-
-## 🌟 Demonstração
-
-🔗 **[Ver Projeto Online](https://seu-usuario.github.io/ongconnect/)** *(Configure o GitHub Pages após o upload)*
 
 ### Screenshots
 
