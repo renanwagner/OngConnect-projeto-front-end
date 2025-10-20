@@ -17,14 +17,6 @@ O terceiro setor brasileiro representa uma força econômica e social significat
 
 ---
 
-### Screenshots
-
-| Página Inicial | Projetos Sociais | Formulário de Cadastro |
-|----------------|------------------|------------------------|
-| ![Home](docs/screenshots/home.png) | ![Projetos](docs/screenshots/projetos.png) | ![Cadastro](docs/screenshots/cadastro.png) |
-
----
-
 ## 🏗️ Estrutura do Projeto
 
 ```
