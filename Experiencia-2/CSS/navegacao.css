@@ -140,6 +140,7 @@ nav ul.mobile-menu {
 
 nav ul.mobile-menu.ativo {
     right: 0;
+}
 
 nav ul.mobile-menu li {
     width: 100%;
