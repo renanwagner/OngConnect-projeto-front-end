@@ -4,7 +4,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)](LICENSE)
 
 ## 📋 Sobre o Projeto
 
@@ -15,18 +14,6 @@ Este projeto foi desenvolvido como **Entrega I** da disciplina de Desenvolviment
 ### 🎯 Contexto
 
 O terceiro setor brasileiro representa uma força econômica e social significativa, com mais de 820 mil organizações da sociedade civil. No entanto, apenas 30% possuem presença digital adequada. A ONGConnect surge como solução para democratizar o acesso à tecnologia e amplificar o impacto social dessas organizações.
-
----
-
-## 🌟 Demonstração
-
-🔗 **[Ver Projeto Online](https://seu-usuario.github.io/ongconnect/)** *(Configure o GitHub Pages após o upload)*
-
-### Screenshots
-
-| Página Inicial | Projetos Sociais | Formulário de Cadastro |
-|----------------|------------------|------------------------|
-| ![Home](docs/screenshots/home.png) | ![Projetos](docs/screenshots/projetos.png) | ![Cadastro](docs/screenshots/cadastro.png) |
 
 ---
 
@@ -157,10 +144,6 @@ ongconnect/
 - ✅ Pelo menos uma forma de participação selecionada
 - ✅ Aceite obrigatório dos termos
 
-**Imagens:** 1 (banner de cadastro)
-
----
-
 ## ✅ Requisitos Atendidos
 
 ### Estrutura HTML5 Semântica
@@ -222,27 +205,6 @@ ongconnect/
 - Validação customizada
 - Manipulação do DOM
 - Event listeners
-
----
-
-## 🚀 Como Visualizar
-
-### Opção 1: Abrir Localmente
-
-1. **Clone o repositório**
-```bash
-git clone https://github.com/seu-usuario/ongconnect.git
-cd ongconnect
-```
-
-2. **Abra no navegador**
-- Clique duas vezes em `index.html`
-- Ou arraste o arquivo para o navegador
-- Ou use a extensão Live Server do VS Code
-
-### Opção 2: GitHub Pages
-
-1. Acesse: `https://seu-usuario.github.io/ongconnect/`
 
 ---
 
@@ -407,37 +369,6 @@ Base: 320px - 767px
 
 ---
 
-## 👨‍💻 Autor
-
-**[Seu Nome Completo]**
-
-- 🎓 Curso: [Nome do Curso]
-- 🏫 Instituição: [Nome da Universidade]
-- 📅 Semestre: 2024.2
-- 📧 E-mail: [seu-email@universidade.edu.br]
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-
----
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins **acadêmicos** como parte da disciplina de Desenvolvimento Front-end.
-
-**Uso Educacional:** Permitido para fins de aprendizado e referência acadêmica.
-
----
-
-## 🙏 Agradecimentos
-
-- **Professor(a):** [Nome do Professor] - Orientação técnica
-- **Unsplash, Pexels, Pixabay:** Imagens de alta qualidade
-- **MDN Web Docs:** Documentação de referência
-- **W3C:** Padrões e validação HTML5
-- **ONGs Brasileiras:** Inspiração e propósito social
-
----
-
 ## 📚 Referências
 
 ### Documentação Técnica
@@ -448,60 +379,6 @@ Este projeto foi desenvolvido para fins **acadêmicos** como parte da disciplina
 ### Dados e Estatísticas
 - IBGE (2023) - Pesquisa das Entidades de Assistência Social
 - ABES (2023) - Mercado Brasileiro de Software
-
 ---
-
-## 🚀 Próximas Entregas
-
-### Entrega II - CSS3 Avançado
-- [ ] Externalizar CSS para arquivo .css
-- [ ] Implementar CSS Grid e Flexbox avançado
-- [ ] Criar sistema de design tokens
-- [ ] Adicionar animações e transições CSS
-- [ ] Implementar dark mode
-
-### Entrega III - JavaScript Avançado
-- [ ] Modularizar código JavaScript
-- [ ] Implementar interações avançadas
-- [ ] Integrar API ViaCEP (busca de endereço)
-- [ ] Adicionar validações complexas
-- [ ] Criar gráficos com Canvas API
-
-### Entrega IV - Deploy e Otimização
-- [ ] Otimizar imagens (WebP, lazy loading)
-- [ ] Minificar HTML/CSS/JS
-- [ ] Implementar PWA
-- [ ] Configurar SEO avançado
-- [ ] Deploy em produção
-
----
-
-## 📞 Suporte
-
-Para dúvidas sobre o projeto acadêmico:
-
-- 📧 E-mail: [seu-email@universidade.edu.br]
-- 💬 Issues: [GitHub Issues](https://github.com/seu-usuario/ongconnect/issues)
-
----
-
-## ⭐ Se este projeto foi útil...
-
-Considere dar uma estrela ⭐ no repositório!
-
----
-
-<div align="center">
-
-**Desenvolvido com 💜 para transformar o terceiro setor brasileiro através da tecnologia**
-
-*"A tecnologia é uma ferramenta poderosa para amplificar o impacto social."*
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/ongconnect)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
-**ONGConnect** | 2024 | Entrega I - Fundamentos e Estruturação
 
 </div>
